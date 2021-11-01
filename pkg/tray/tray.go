@@ -2,7 +2,7 @@ package tray
 
 import (
 	"github.com/getlantern/systray"
-	"github.com/pavel/PulseIndicator/pkg/icons"
+	"pkg/icons"
 )
 
 func Start() {
